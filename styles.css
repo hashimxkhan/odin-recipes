@@ -1,0 +1,23 @@
+body {
+background-color: bisque;
+}
+.top-heading,
+.main-index,
+h2,
+h3 {
+    text-align: center;
+    font-weight: bold;
+}
+.top-heading,
+h2,
+h3 {
+    background-color: darkslategray;
+    color: white;
+}
+.main-index {
+    color: darkslategray;
+}
+li,
+p {
+    color: darkslategray;
+}
